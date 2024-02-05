@@ -1,8 +1,7 @@
 {
-  "name": "codevilot.github.io",
+  "name": "codevilot.dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://codevilot.github.io",
   "type": "module",
   "scripts": {
     "dev": "next dev",
